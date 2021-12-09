@@ -1,0 +1,24 @@
+
+All the below codes to be run by terminal in command-prompt of visual studio code.
+
+
+
+1.'python --version' : to check on which version of python we are currently working with.
+
+2.'pip --version' : to check version of pip (preferred installer program)
+
+3.'pip install virtualenv' : to create virtual environment in which django will be installed.
+
+4.'virtualenv venv' : giving a name to the created virtual environment.
+
+5.'venv\scripts\activate' : for activating the created virtual environment.
+
+6.'pip install Django' : to install django of required version.
+
+7.'django-admin --version' : to check the version of django that is been installed.
+
+8.'django-admin starproject mysite' : to create the main django project or admin project.
+
+9.'cd mysite' : for creating the directory of mysite/project created in the django.
+
+10.'py manage.py runserver' : to run the server in the web page
