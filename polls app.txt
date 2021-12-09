@@ -1,0 +1,3 @@
+once virtual environment created, django been successfully installed and mysite directory been created polls app to be created by writing below code in command prompt.
+
+1.'py manage.py startapp polls : this command is used to create the app named polls inside the admin project.
